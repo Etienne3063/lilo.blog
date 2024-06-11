@@ -1,5 +1,5 @@
 +++
-title = "Reportageprojekt Biodiversität in Gefahr (feat. Rico Flückiger)"
+title = "Reportageprojekt "
 date = "2024-06-11"
 draft = false
 pinned = false
